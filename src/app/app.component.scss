@@ -192,15 +192,15 @@ $soft-red: hsl(345, 95%, 68%);
   }
 
   .timer-box {
-    width: 400px;
+    width: 370px;
     height: 110px;
-    justify-content: center;
-    gap: 10px;
+    justify-content: space-around;
+    margin: 5px;
   }
 
   .card {
-    width: 80px;
-    height: 80px;
+    width: 70px;
+    height: 70px;
   }
 
   .card-label {
